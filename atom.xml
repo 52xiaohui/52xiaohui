@@ -6,7 +6,7 @@
   <link href="https://www.hnice.top/atom.xml" rel="self"/>
   
   <link href="https://www.hnice.top/"/>
-  <updated>2022-06-21T08:37:22.428Z</updated>
+  <updated>2022-06-21T13:02:26.651Z</updated>
   <id>https://www.hnice.top/</id>
   
   <author>
@@ -17,9 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>实战:小米手环6复制加密IC卡</title>
+    <link href="https://www.hnice.top/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/%E5%AE%9E%E6%88%98-%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF6%E5%A4%8D%E5%88%B6%E5%8A%A0%E5%AF%86IC%E5%8D%A1/"/>
+    <id>https://www.hnice.top/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/%E5%AE%9E%E6%88%98-%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF6%E5%A4%8D%E5%88%B6%E5%8A%A0%E5%AF%86IC%E5%8D%A1/</id>
+    <published>2022-06-21T12:59:46.000Z</published>
+    <updated>2022-06-21T13:02:26.651Z</updated>
+    
+    
+    
+    
+    <category term="技术教程" scheme="https://www.hnice.top/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://www.hnice.top/2022/06/21/hello-world/"/>
-    <id>https://www.hnice.top/2022/06/21/hello-world/</id>
+    <link href="https://www.hnice.top/uncategorized/hello-world/"/>
+    <id>https://www.hnice.top/uncategorized/hello-world/</id>
     <published>2022-06-21T08:37:22.428Z</published>
     <updated>2022-06-21T08:37:22.428Z</updated>
     
